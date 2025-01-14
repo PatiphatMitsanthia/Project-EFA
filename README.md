@@ -1,5 +1,6 @@
 # Project-EFA
-Exploratory Factor Analysis of Course Buying Factors of Suranaree University of  Technology Students
+
+Exploratory Factor Analysis of Course Buying Factors of Suranaree University of Technology Students
 
 การวิเคราะห์องค์ประกอบเชิงสำรวจของปัจจัยการซื้อคอร์สเรียนของนักศึกษามหาวิทยาลัยเทคโนโลยีสุรนารี
 
@@ -7,3 +8,8 @@ Exploratory Factor Analysis of Course Buying Factors of Suranaree University of 
 - แยกองค์ประกอบเชิงสำรวจได้ 3 ด้านสำคัญ ได้แก่ สิ่งกระตุ้นจากการตลาด, คุณภาพคอร์สเรียน, และความน่าเชื่อถือของคอร์สเรียน
 - ใช้ผลการวิเคราะห์เพื่อแนะนำกลยุทธ์การตลาดที่สอดคล้องกับพฤติกรรมนักศึกษา ทั้งด้านผลิตภัณฑ์และบริการ
 
+## ตัวอย่าง
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7f507b76-2765-473b-b610-e0d1a10fc619" alt="Poster-1">
+</div>
